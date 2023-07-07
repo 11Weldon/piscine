@@ -1,0 +1,5 @@
+title = "MyCV"
+name = "Nikita"
+lastname = "Jiltsov"
+age = "forever young"
+profession = "tipo programmist"
